@@ -1,0 +1,7 @@
+make,model,year,vehicle type
+toyota,rav4,2008,Automobiles
+honda,accord lx,2004,Automobiles
+nissan,altima 2.5,2017,Automobiles
+ford,mustang,2013,Automobiles
+porsche,boxter,1970,Automobiles
+bmw,m3,1970,Automobiles
